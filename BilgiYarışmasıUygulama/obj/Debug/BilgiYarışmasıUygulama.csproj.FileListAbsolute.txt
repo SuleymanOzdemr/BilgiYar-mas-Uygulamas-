@@ -1,0 +1,10 @@
+C:\Users\Mralp\source\repos\BilgiYarışmasıUygulama\BilgiYarışmasıUygulama\bin\Debug\BilgiYarışmasıUygulama.exe.config
+C:\Users\Mralp\source\repos\BilgiYarışmasıUygulama\BilgiYarışmasıUygulama\bin\Debug\BilgiYarışmasıUygulama.exe
+C:\Users\Mralp\source\repos\BilgiYarışmasıUygulama\BilgiYarışmasıUygulama\bin\Debug\BilgiYarışmasıUygulama.pdb
+C:\Users\Mralp\source\repos\BilgiYarışmasıUygulama\BilgiYarışmasıUygulama\obj\Debug\BilgiYarışmasıUygulama.csproj.AssemblyReference.cache
+C:\Users\Mralp\source\repos\BilgiYarışmasıUygulama\BilgiYarışmasıUygulama\obj\Debug\BilgiYarışmasıUygulama.Form1.resources
+C:\Users\Mralp\source\repos\BilgiYarışmasıUygulama\BilgiYarışmasıUygulama\obj\Debug\BilgiYarışmasıUygulama.Properties.Resources.resources
+C:\Users\Mralp\source\repos\BilgiYarışmasıUygulama\BilgiYarışmasıUygulama\obj\Debug\BilgiYarışmasıUygulama.csproj.GenerateResource.cache
+C:\Users\Mralp\source\repos\BilgiYarışmasıUygulama\BilgiYarışmasıUygulama\obj\Debug\BilgiYarışmasıUygulama.csproj.CoreCompileInputs.cache
+C:\Users\Mralp\source\repos\BilgiYarışmasıUygulama\BilgiYarışmasıUygulama\obj\Debug\BilgiYarışmasıUygulama.exe
+C:\Users\Mralp\source\repos\BilgiYarışmasıUygulama\BilgiYarışmasıUygulama\obj\Debug\BilgiYarışmasıUygulama.pdb
